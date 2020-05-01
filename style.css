@@ -115,7 +115,7 @@ html, body {
 
 #emoji {
   background-color: #000;
-  
+
 }
 
 .gif {
@@ -162,7 +162,7 @@ hr.light-100 {
 
 /* Exceptional Fixed Background */
 #fixed {
-  background-image: url("img/outbreak.PNG");
+  background-image: url("img/outbreak.png");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
